@@ -48,3 +48,13 @@ Constraints:
     <td><img src="assets/performance/space_complexity_graph.png" alt="Space Complexity" width="420"></td>
   </tr>
 </table>
+
+## Personal Reaction & Feedback
+
+✅ All 1157 / 1157 test cases passed – that part felt amazing.  
+🔥 Hitting **41% on memory** actually made me proud because the 2D mapping approach isn’t lightweight, yet it handled it decently.  
+😡 But **8% on runtime**? That hurt. I knew the algorithm was O(N * M), but seeing it that low on the leaderboard stings.  
+
+This problem pushed me hard. Managing the 2D grid, row/column updates, and vertical/diagonal movement took a lot of debugging.  
+I’m happy the logic is clean and correct, but I can’t lie – I’m walking away from this one both proud and a little pissed.  
+Next step: revisit and try a more optimized approach without losing the mapping clarity I built here.

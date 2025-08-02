@@ -38,3 +38,13 @@ Constraints:
 - ⏱️ Runtime: **39 ms** (Beats 8.47%)
 - 💾 Memory: **10.04 MB** (Beats 41.34%)
 - 📊 Verified Complexity: **O(N * M)** Time and **O(N * M)** Space.
+
+<h2>LeetCode Final Analysis (Screenshots)</h2>
+
+<table>
+  <tr>
+    <td><img src="assets/performance/runtime_&_memory.png" alt="Runtime & Memory" width="420"></td>
+    <td><img src="assets/performance/time_complexity_graph.png" alt="Time Complexity" width="420"></td>
+    <td><img src="assets/performance/space_complexity_graph.png" alt="Space Complexity" width="420"></td>
+  </tr>
+</table>

@@ -31,3 +31,10 @@ Constraints:
 - 1 <= s.length <= 1000  
 - s consists of English letters (lower‑case and upper‑case), ‘,’ and ‘.’  
 - 1 <= numRows <= 1000
+
+## LeetCode Submission Results
+
+- ✅ Passed **1157 / 1157** test cases on LeetCode.
+- ⏱️ Runtime: **39 ms** (Beats 8.47%)
+- 💾 Memory: **10.04 MB** (Beats 41.34%)
+- 📊 Verified Complexity: **O(N * M)** Time and **O(N * M)** Space.
